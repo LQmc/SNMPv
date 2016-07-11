@@ -1,24 +1,11 @@
-# README
+# SNMPv
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Aprendiendo SNMP y Ruby.
 
-Things you may want to cover:
+El proposito es crear una pagina simple que despliegue informacion de "queries" realizados con SNMP a distintos dispositivos y mostrar la informacion en tiempo real por medio de graficas y/o texto que cambie constantemente.
 
-* Ruby version
+Esto con la finalidad de ver remotamente si estos dispositivos se encuentran en funcionamiento, tiempo activo y alguna otra cosa que encuentre que pueda implementar.
 
-* System dependencies
+Realisticamente es para aprender a integrar todos estos aspectos en Ruby e intentarlos desplegar.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Suerte.
